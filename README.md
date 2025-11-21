@@ -1,8 +1,6 @@
 # Student Info
 * Name: Hafa Kazi  
-* NetID: nsk210004  
 * Course: 3345
-* Section: 002
 * Date: 10/29/2025
 
 # Data Structure Benchmark - README
@@ -94,4 +92,5 @@ Each test was repeated multiple times, using provided key files:
 - Fastest overall structure: Hash Table (Chaining) for random datasets.  
 - Most consistent performance: AVL Tree.  
 - Best for repeated key access: Splay Tree.  
+
 - The trade-off between speed (Hash Tables) and predictability (AVL) defines their ideal use cases.
